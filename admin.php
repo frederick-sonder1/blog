@@ -4,3 +4,7 @@ $title = 'Administrateur';
 <body>
     <?php include 'header.php'; ?>
 </body>
+
+
+
+bonjour
